@@ -1,4 +1,4 @@
-# Bicycle-Store-Test
+# Bicycle-Store-Project
 An HTML, CSS and JS design implementation and form validation.
 
 Only one JS fiddle was used and can be found here:
